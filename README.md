@@ -1,2 +1,2 @@
-# chatgpt-demo
+# chatgpt
 Just for testing and fun.
